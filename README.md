@@ -47,10 +47,6 @@ Listed in alphabetical order by GitHub handle.
 
 ## Team Photo
 
-Add your group photo to the repository, for example:
-
-```text
-assets/team-photo.jpg
 
 ## Team
 
