@@ -51,3 +51,10 @@ Add your group photo to the repository, for example:
 
 ```text
 assets/team-photo.jpg
+
+## Team
+
+<p align="center">
+  <img src="assets/group1.png" alt="Group Photo 1" width="45%" />
+  <img src="assets/group2.png" alt="Group Photo 2" width="45%" />
+</p>
