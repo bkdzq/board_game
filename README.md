@@ -54,7 +54,5 @@ assets/team-photo.jpg
 
 ## Team
 
-<p align="center">
-  <img src="assets/group1.png" alt="Group Photo 1" width="45%" />
-  <img src="assets/group2.png" alt="Group Photo 2" width="45%" />
-</p>
+![Group Photo 1](assets/group1.png)
+![Group Photo 2](assets/group2.png)
